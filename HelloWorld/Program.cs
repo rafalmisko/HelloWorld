@@ -10,7 +10,8 @@ namespace HelloWorld
          public static void Main(string[] args)
         {
             //camelCase
-            string firstAndLastName = "Rafał";
+            string firstName = "Rafał";
+            string lastName = "Misko"; 
 
             //Upper_Case
             const double PI_NUMBER = 3.14; 
